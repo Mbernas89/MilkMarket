@@ -1,0 +1,3 @@
+ALTER TABLE posts
+ADD image_path VARCHAR(255) NULL;
+
