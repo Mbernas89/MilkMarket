@@ -1,3 +1,12 @@
+database_updates.sql
+database_updates_admin.sql
+database_updates_friends.sql
+database_updates_google_auth.sql
+database_updates_images.sql
+database_updates_messages.sql
+database_updates_notifications.sql
+database_updates_product_posts.sql
+database_updates_settings.sql
 config/
 SocMedia-main/config/
 socmed/config/
